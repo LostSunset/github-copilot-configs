@@ -15,6 +15,7 @@
     },
     "chat.editing.confirmEditRequestRemoval": true,
     "chat.editing.confirmEditRequestRetry": true,
+    "telemetry.telemetryLevel": "off",
 
     // ***************************************************
     // 以下設定適用於 User Settings 或 Workspace Settings
@@ -23,7 +24,6 @@
     "chat.commandCenter.enabled": true,
 
     "github.copilot.selectedCompletionModel": "gpt-4o-copilot",
-    "github.copilot.editor.enableAutoCompletions": true,
     "github.copilot.editor.enableCodeActions": true,
     "github.copilot.renameSuggestions.triggerAutomatically": true,
     "workbench.commandPalette.experimental.askChatLocation": "chatView",
